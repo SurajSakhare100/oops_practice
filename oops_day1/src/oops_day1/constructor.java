@@ -1,4 +1,5 @@
 package oops_day1;
+// inhertance
 class poly{
 	String name;
 	double age;
